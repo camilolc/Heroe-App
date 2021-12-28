@@ -1,7 +1,7 @@
 import { types } from "../types/types";
 
 // const state = {
-//   name: "fernando",
+//   name: "camilo",
 //   logged: true,
 // };
 

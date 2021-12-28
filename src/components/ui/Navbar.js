@@ -51,8 +51,7 @@ export const Navbar = () => {
           </NavLink>
         </div>
       </div>
-
-      <div className="navbar-collapse collapse w-100 order-3 dual-collapse2">
+      <div className="d-flex">
         <ul className="navbar-nav ml-auto">
           <span className="nav-item nav-link text-info">{name} </span>
           <button className="nav-item nav-link btn" onClick={handleLogout}>

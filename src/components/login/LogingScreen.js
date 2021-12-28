@@ -11,7 +11,7 @@ export const LogingScreen = ({ history }) => {
     dispatch({
       type: types.login,
       payload: {
-        name: "fernando",
+        name: "Camilo",
       },
     });
     history.replace(lastPath);
