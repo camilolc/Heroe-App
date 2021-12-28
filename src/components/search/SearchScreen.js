@@ -31,7 +31,7 @@ export const SearchScreen = ({ history }) => {
 
           <form onSubmit={handleSearch}>
             <input
-              typeof="text"wedx
+              typeof="text"
               placeholder="find your herp"
               className="form-control"
               onChange={handleInputChange}
